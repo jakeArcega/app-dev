@@ -2,7 +2,7 @@
 My First Repository
 
 # my favorite movie
-** Se7en **
+**Se7en**
 * the movie is all about two detectives search for serial killer, this serial killer follows the 7 deadly sins
 * this is the list according to the sins
 1. Gluttony (The Obese Man)
